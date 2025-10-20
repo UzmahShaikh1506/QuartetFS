@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package api;
 
-option go_package = "github.com/your-github-username/quartetfs/api";
+option go_package = "github.com/Uzmahshaikh1506/quartetfs/api";
 
 // The Metadata Service (MDS) - The "Brain"
 // It coordinates operations but doesn't store file data itself.

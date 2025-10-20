@@ -5,6 +5,7 @@ go 1.25.3
 require google.golang.org/grpc v1.76.0
 
 require (
+	github.com/google/uuid v1.6.0
 	golang.org/x/net v0.42.0 // indirect
 	golang.org/x/sys v0.34.0 // indirect
 	golang.org/x/text v0.27.0 // indirect
